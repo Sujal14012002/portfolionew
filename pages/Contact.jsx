@@ -41,17 +41,17 @@ const Contact = () => {
           <div className="address">
           <span>
           <i className='bx bxs-envelope'></i>
-          <a href="mailto:mitalirasaniya@gmail.com" target='_blank'>mitalirasaniya@gmail.com</a>
+          <a href="mailto:mitalirasaniya@gmail.com" target='_blank'>Prajapatisujal75@gmail.com</a>
           </span>
 
           <span>
           <i className='bx bxs-phone-call' ></i>
-          <a href="https://wa.me/123456789" target='_blank'>+91-1234567890</a>
+          <a href="https://wa.me/123456789" target='_blank'>+91-86459484889</a>
           </span>
 
           <span>
           <i className='bx bx-current-location'></i>
-          <a>Indore, Bharat</a>
+          <a>Bhopal, Bharat</a>
           </span>
           </div>
         </div>
